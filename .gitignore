@@ -1,0 +1,5 @@
+# Ignore python virtual env
+venv
+
+# Ignore generated data
+output
